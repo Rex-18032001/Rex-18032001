@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prathamesh Ingale (you can also call me Rex)</h1>
-<h3 align="center">Exploring the Universe: Passionate About Radio Astronomy, AGNs, Radio Interferometry and Pulsars</h3>
+<h3 align="center">Exploring the Universe: Passionate About Radio Astronomy, AGN, Radio Interferometry and Pulsars</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rex-18032001&label=Profile%20views&color=0e75b6&style=flat" alt="rex-18032001" /> </p>
 
