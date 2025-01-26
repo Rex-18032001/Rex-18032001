@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rex-18032001&label=Profile%20views&color=0e75b6&style=flat" alt="rex-18032001" /> </p>
 
-- 🔭 I’m currently working on M81* jet precession and variability using VLBA, EVN and Effelberg data, for my Master Thesis
+- 🔭 I’m currently working on M81* jet precession and variability using VLBA, EVN and Effelberg data, for my Master Thesis (Exciting results to be published here soon!!)
 
 - 🌱 I’m currently advancing my skills in **CASA, Difmap, SED fitting, Python, Machine learning**
 
